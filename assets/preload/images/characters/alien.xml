@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alien.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alien down0000" x="0" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0001" x="961" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0002" x="1922" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0003" x="2883" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0004" x="0" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0000" x="961" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0001" x="1922" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0002" x="2883" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0003" x="0" y="1440" width="961" height="720"/>
+	<SubTexture name="alien idle0004" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien idle0005" x="1922" y="1440" width="961" height="720"/>
+	<SubTexture name="alien idle0006" x="2883" y="1440" width="961" height="720"/>
+	<SubTexture name="alien idle0007" x="0" y="2160" width="961" height="720"/>
+	<SubTexture name="alien idle0008" x="961" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0000" x="961" y="2160" width="961" height="720"/>
+	<SubTexture name="alien left0001" x="1922" y="2160" width="961" height="720"/>
+	<SubTexture name="alien left0002" x="2883" y="2160" width="961" height="720"/>
+	<SubTexture name="alien left0003" x="0" y="2880" width="961" height="720"/>
+	<SubTexture name="alien left0004" x="961" y="2880" width="961" height="720"/>
+	<SubTexture name="alien right0000" x="1922" y="2880" width="961" height="720"/>
+	<SubTexture name="alien right0001" x="2883" y="2880" width="961" height="720"/>
+	<SubTexture name="alien right0002" x="0" y="3600" width="961" height="720"/>
+	<SubTexture name="alien right0003" x="961" y="3600" width="961" height="720"/>
+	<SubTexture name="alien right0004" x="1922" y="3600" width="961" height="720"/>
+	<SubTexture name="alien up0000" x="2883" y="3600" width="940" height="720"/>
+	<SubTexture name="alien up0001" x="0" y="4320" width="940" height="720"/>
+	<SubTexture name="alien up0002" x="940" y="4320" width="940" height="720"/>
+	<SubTexture name="alien up0003" x="1880" y="4320" width="940" height="720"/>
+	<SubTexture name="alien up0004" x="2820" y="4320" width="940" height="720"/>
+	<SubTexture name="melt0000" x="961" y="720" width="961" height="720"/>
+	<SubTexture name="melt0001" x="0" y="5040" width="961" height="744"/>
+	<SubTexture name="melt0002" x="961" y="5040" width="961" height="744"/>
+	<SubTexture name="melt0003" x="1922" y="5040" width="961" height="744"/>
+	<SubTexture name="melt0004" x="2883" y="5040" width="961" height="744"/>
+	<SubTexture name="melt0005" x="0" y="5784" width="961" height="744"/>
+	<SubTexture name="melt0006" x="961" y="5784" width="961" height="744"/>
+	<SubTexture name="melt0007" x="1922" y="5784" width="961" height="744"/>
+	<SubTexture name="melt0008" x="2883" y="5784" width="961" height="744"/>
+	<SubTexture name="melt0009" x="0" y="6528" width="961" height="744"/>
+	<SubTexture name="melt0010" x="961" y="6528" width="961" height="744"/>
+	<SubTexture name="melt0011" x="1922" y="6528" width="961" height="744"/>
+	<SubTexture name="melt0012" x="2883" y="6528" width="961" height="744"/>
+	<SubTexture name="melt0013" x="0" y="7272" width="961" height="744"/>
+	<SubTexture name="melt0014" x="0" y="7272" width="961" height="744"/>
+	<SubTexture name="melt0015" x="0" y="7272" width="961" height="744"/>
+	<SubTexture name="melt0016" x="0" y="7272" width="961" height="744"/>
+	<SubTexture name="melt0017" x="0" y="7272" width="961" height="744"/>
+	<SubTexture name="melt0018" x="0" y="7272" width="961" height="744"/>
+	<SubTexture name="melt0019" x="0" y="7272" width="961" height="744"/>
+</TextureAtlas>

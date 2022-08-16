@@ -1,0 +1,50 @@
+{
+	"storyName": "secret of nobody",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"House-forsale",
+			"mouse-p1",
+			[
+				246,
+				160,
+				0
+			]
+		],
+		[
+			"vanishing",
+			"mouse-p2",
+			[
+				206,
+				160,
+				13
+			]
+		],
+		[
+			"sirokou",
+			"mouse-p2",
+			[
+				126,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

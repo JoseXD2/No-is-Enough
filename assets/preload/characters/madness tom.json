@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				54
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TOM LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				103
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TOM DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				136
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TOM UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-38
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TOM RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TOM idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MADNESS-TOM",
+	"position": [
+		-180,
+		-50
+	],
+	"healthicon": "mc-tom",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		62,
+		60
+	],
+	"camera_position": [
+		100,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

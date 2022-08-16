@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tuffy.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tuffy down0000" x="0" y="0" width="486" height="647"/>
+	<SubTexture name="tuffy down0001" x="0" y="0" width="486" height="647"/>
+	<SubTexture name="tuffy down0002" x="486" y="0" width="486" height="647"/>
+	<SubTexture name="tuffy down0003" x="972" y="0" width="486" height="647"/>
+	<SubTexture name="tuffy idle0000" x="1458" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy idle0001" x="2035" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy idle0002" x="2612" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy idle0003" x="3189" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy idle0004" x="3189" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy idle0005" x="3189" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy idle0006" x="3189" y="0" width="577" height="720"/>
+	<SubTexture name="tuffy left0000" x="0" y="720" width="779" height="647"/>
+	<SubTexture name="tuffy left0001" x="779" y="720" width="779" height="647"/>
+	<SubTexture name="tuffy left0002" x="1558" y="720" width="779" height="647"/>
+	<SubTexture name="tuffy left0003" x="2337" y="720" width="779" height="647"/>
+	<SubTexture name="tuffy right0000" x="3116" y="720" width="540" height="720"/>
+	<SubTexture name="tuffy right0001" x="0" y="1440" width="540" height="720"/>
+	<SubTexture name="tuffy right0002" x="0" y="1440" width="540" height="720"/>
+	<SubTexture name="tuffy right0003" x="540" y="1440" width="540" height="720"/>
+	<SubTexture name="tuffy up0000" x="1080" y="1440" width="618" height="823"/>
+	<SubTexture name="tuffy up0001" x="1698" y="1440" width="618" height="823"/>
+	<SubTexture name="tuffy up0002" x="2316" y="1440" width="618" height="823"/>
+	<SubTexture name="tuffy up0003" x="2934" y="1440" width="618" height="823"/>
+</TextureAtlas>

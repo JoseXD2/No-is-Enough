@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				3
+			],
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "alien idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				4
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "alien up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "alien right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				1
+			],
+			"anim": "bye lol",
+			"fps": 12,
+			"name": "melt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "alien left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "alien down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alien",
+	"position": [
+		-130,
+		120
+	],
+	"healthicon": "alien-mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		170,
+		111
+	],
+	"camera_position": [
+		-180,
+		100
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 0.899999999999999
+}

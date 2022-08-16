@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "basement",
+		"player1": "bf",
+		"player2": "mouse",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"2"
+					]
+				]
+			],
+			[
+				1714.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						"2"
+					]
+				]
+			],
+			[
+				3428.57142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"2"
+					]
+				]
+			],
+			[
+				5142.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"2"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"2"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						"2"
+					]
+				]
+			],
+			[
+				10285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"2"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "House-For-Sale"
+	}
+}

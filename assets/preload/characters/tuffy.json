@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				3
+			],
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "tuffy idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tuffy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-44
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tuffy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				218,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tuffy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tuffy down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tuffy",
+	"position": [
+		30,
+		90
+	],
+	"healthicon": "tuffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		255
+	],
+	"camera_position": [
+		-180,
+		-40
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.2
+}
